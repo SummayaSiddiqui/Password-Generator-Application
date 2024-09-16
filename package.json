@@ -1,0 +1,22 @@
+{
+  "name": "password-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SummayaSiddiqui/Password-Generator-Application.git"
+  },
+  "bin": {
+    "password-generator": "./index.js"
+  },
+  "author": "Summaya Siddiqui",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SummayaSiddiqui/Password-Generator-Application/issues"
+  },
+  "homepage": "https://github.com/SummayaSiddiqui/Password-Generator-Application#readme",
+  "description": ""
+}
